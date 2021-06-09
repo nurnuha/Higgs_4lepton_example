@@ -1,8 +1,8 @@
 A Higgs example for CMS Open Data.
 
-The purpose is to demonstrate a possibility of doing physics analysis with CMS Open Data.
+The purpose of the example is to demonstrate a possibility of doing physics analysis with CMS Open Data.
 
-Only codes with my main contribution is included here.
+Only codes with my main contribution are included here.
 
 Details on the Higgs to 4 lepton example can be found in the cms-opendata-analyses github [1] and the CERN Open Data portal [2].
 
