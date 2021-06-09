@@ -1,6 +1,6 @@
 A Higgs example for CMS Open Data.
 
-The purpose is to demonstrate a possibility of doing physics analysis with CMS Open Data.
+The purpose of the example is to demonstrate a possibility of doing physics analysis with CMS Open Data.
 
 Only codes with my main contribution is included here.
 
